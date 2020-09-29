@@ -1,0 +1,23 @@
+#container {
+    text-align: center;
+}
+.photos {
+    padding-top: 5px;
+    width: 60%;
+    height: auto;
+    margin: 20px auto;
+    background-color: red;
+    display: none;
+    flex-wrap: wrap;
+}
+img {
+    width: 23.7%;
+    height: auto;
+    margin: 5px;
+}
+.rodyti {
+    display: flex;
+}
+.maisyti {
+    display: none;
+}
